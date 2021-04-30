@@ -1,0 +1,4 @@
+a = [0,0,1,2]
+b=set(a)
+a=list(b)
+print(a)
